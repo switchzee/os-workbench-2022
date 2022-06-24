@@ -1,4 +1,4 @@
-// print process tree
+// print process tree with commmand argument -V -p -n
 #include <stdio.h>
 #include "libs/proc.h"
 #include <getopt.h>

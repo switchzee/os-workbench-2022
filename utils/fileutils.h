@@ -1,3 +1,4 @@
+// deal with common file and specific /proc file
 #define _GNU_SOURCE
 #include <string.h>
 #include <stdlib.h>
